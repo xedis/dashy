@@ -72,10 +72,10 @@ This can be done from the Config menu (spanner icon in the top-right), under the
 
 If you've got multiple pages within your dashboard, you can choose to target certain styles to specific pages. The top-most element within `<body>` will have a class name specific to the current sub-page. This is usually the page's name, all lowercase, with dashes instead of spaces, but you can easily check this yourself within the dev tools.
 
-For example, if the pages name was "CFT Toolbox", and you wanted to target `.item`s, you would do:
+For example, if the pages name was "CTF Toolbox", and you wanted to target `.item`s, you would do:
 
 ```css
-.cft-toolbox .item { border: 4px solid yellow; }
+.ctf-toolbox .item { border: 4px solid yellow; }
 ```
 
 ## Loading External Stylesheets
