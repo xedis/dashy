@@ -144,9 +144,9 @@
 
 ---
 
-## CFT Toolbox
+## CTF (CaptureTheFlag) Toolbox
 
-![screenshot-cft-toolbox](https://raw.githubusercontent.com/Lissy93/dashy/master/docs/showcase/3-cft-toolbox.png)
+![screenshot-ctf-toolbox](https://github.com/xedis/dashy/blob/019b36fc1a1fc5ac34f8577870c73d2352c0ca4a/docs/showcase/3-ctf-toolbox.png)
 
 ---
 
